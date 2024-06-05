@@ -20,6 +20,8 @@
 
 ---
 
-<!-- Retest 
-Still progress and keep learning how to implement from task assignment, despite occurs due date, i still do best -->
-![alt text](image.png)
+# Retest 'Still progress and keep learning how to implement from task assignment, despite occurs due date, i still do best'
+
+
+# Hasil retest 2 
+![alt text](image-1.png)
